@@ -3,12 +3,9 @@ package com.fiap.grupo.dois.dto;
 import javax.validation.constraints.Size;
 
 import com.sun.istack.internal.NotNull;
-import io.swagger.annotations.ApiModelProperty;
 import org.hibernate.validator.constraints.NotEmpty;
 
 import com.fiap.grupo.dois.model.Endereco;
-
-import java.lang.invoke.MethodType;
 
 @SuppressWarnings("deprecation")
 public class EnderecoDTO {
