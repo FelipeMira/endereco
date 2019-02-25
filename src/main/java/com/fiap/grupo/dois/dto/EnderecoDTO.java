@@ -1,8 +1,8 @@
 package com.fiap.grupo.dois.dto;
 
+import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
-import com.sun.istack.internal.NotNull;
 import org.hibernate.validator.constraints.NotEmpty;
 
 import com.fiap.grupo.dois.model.Endereco;
